@@ -1,0 +1,80 @@
+header{
+	padding-top: 40px;
+	border-bottom: 6px solid #E4E4E4;
+}
+header img{
+	padding-left: 20px;
+}
+
+.oneClass ul{
+	list-style: none;
+	margin-top: 15px;
+	text-align: right;
+}
+.oneClass ul li{
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px;
+}
+.oneClass ul li a{
+	text-decoration: none;
+	padding: 10px;
+}
+
+
+.contact{
+	background-color: #F14838;
+	padding-top: 30px;	
+	padding-bottom: 30px;
+}
+.contact h1{
+	color: #fff;
+	padding-bottom: 10px;
+}
+.contact p{
+	color: #fff;
+	font-size: 12px;
+	text-align: justify;
+	padding-top: 10px;
+}
+
+.fullName{
+	width: 320px;
+	padding: 8px;
+	background-color: #FF6153;
+	border:none;
+}
+.emailAddress{
+	width: 320px;
+	padding: 8px;
+	background-color: #FF6153;
+	border:none;
+}
+.subject{
+	width: 320px;
+	padding: 8px;
+	background-color: #FF6153;
+	border:none;
+}
+.message{
+	width: 320px;
+	padding: 8px;
+	background-color: #FF6153;
+	border:none;
+}
+.btn{
+	padding-top: 90px;
+	color: #fff;
+}
+
+.footerLast{
+	background-color: #F33F2E;
+	padding: 8px;
+}
+.footerLast p{
+	margin-top: 15px;
+	color: #fff;
+	font-size: 12px;
+	text-align: center;
+	
+}

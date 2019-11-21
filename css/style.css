@@ -1,0 +1,141 @@
+header{
+	background: url(../img/girl.png) no-repeat;
+	background-size: cover; 
+}
+.logo{
+
+	margin-top: 20px;
+}
+.oneList ul{
+	list-style: none;
+	text-align: right;
+
+}
+.oneList ul li{
+	
+	display: inline-block;
+	
+	color: #fff;
+	margin-top: 45px;
+	padding: 5px;
+}
+.oneList ul li a{
+	text-decoration: none;
+	color: #fff;
+	
+}
+
+.contact{
+	margin-top: 50px;
+	width: 33%;
+}
+.contact p{
+	color: #fff;
+	font-size: 10px;
+}
+.contact span{
+	display: block;
+	width: 6%;
+	border-bottom: 2px solid #fff;
+	margin-top: 50px;
+	margin-bottom: 23px;
+}
+h2{
+	margin-top: 30px;
+	padding: 7px 15px;
+	color: #fff;
+	background-color: rgba(0,0,0,.5);
+}
+
+.btn{
+	color: #fff;
+	padding: 6px 55px;
+	border: 1.5px solid #fff;
+	background:transparent;
+	margin-bottom:200px;
+}
+
+.secSec{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #F6F6F6;
+	padding-top: 110px;
+}
+.secSec h3{
+	font-weight: bold;
+	font-size: 40px;
+
+}
+.secSecOne span{
+	display: block;
+	width: 3%;
+	border-bottom: 3px solid #B7B7B7;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.secSecOne{
+
+}
+
+.secSecTwo{
+	position: relative;
+	
+}
+/*.parent{
+	background: url("../img/homepa.png") no-repeat;
+	background-size: cover;
+	
+
+}*/
+.child{
+	position: absolute;
+	top: 12%;
+	left: 44%;
+	
+
+}
+
+
+.secThree{
+	background-color: #29282E;
+	padding-top: 50px;
+}
+
+.secThree h1{
+	color: #fff;
+
+}
+.secThree span{
+	display: block;
+	width: 2%;
+	border-bottom: 2px solid #fff;
+	margin-bottom: 30px;
+}
+.secThree p{
+	color: #fff;
+	font-size: 12px;
+	margin-bottom: 40px;
+
+}
+.btnTwo{
+	color: #fff;
+	padding: 6px 20px;
+	border: 1px solid #fff;
+	background:transparent;
+	margin-bottom: 100px;
+}
+
+.footerLast{
+	background-color: #F33F2E;
+	padding: 8px;
+}
+.footerLast p{
+	margin-top: 15px;
+	color: #fff;
+	font-size: 12px;
+	text-align: center;
+	
+}
+
+@media(min-width:0px) and (max-width:500px ){
+	
+}
